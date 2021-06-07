@@ -30,7 +30,7 @@ Each player will have his own player profile. This will include a few details of
 
 > Viewing History
 
-One of the coolest features is viewing your ENTIRE dynasty history of drafts and progression (plus any other modules that get added). If you want to go back last year to see who was the projected to be the #1 pick, you can. Maybe you were watching a QB attempt to improve his draft grade only to regress and drop to an undrafted QB, there are many possibilities. To view history, you must of ran that module at least one time. It will create a folder with that dynasty year with the correct information. You can sort and filter the same on history as you do the normal modules.
+One of the coolest features is viewing your ENTIRE dynasty history of drafts and progression (plus any other modules that get added). If you want to go back last year to see who was projected to be the #1 pick, you can. Maybe you were watching a QB attempt to improve his draft grade only to regress and drop to an undrafted QB, there are many possibilities. To view history, you must have ran that module at least one time. It will create a folder with that dynasty year with the correct information. You can sort and filter the same on history as you do the normal modules.
 
 ## Future Updates
 > Updating the Application
