@@ -39,7 +39,7 @@ To update your application, all you need to do is download the newest version fr
 
 > New Features
 
-No need to ask are we adding A... B... C... As time allows, more features will be looked at and coded when able. There are plans already for additional modules, be patient.
+No need to ask if we are we adding A... B... C... As time allows, more features will be looked at and coded when able. There are plans already for additional modules, be patient.
 
 ## Reporting Issues
 It is very important to provide feedback and report any and all issues, big or small. When providing feedback or reporting issues, please be respectful at all times so someone can assist you or take the report. It is preferred you post all issues/feedback in the Revamped Community Discord under the appropriate channel. 
