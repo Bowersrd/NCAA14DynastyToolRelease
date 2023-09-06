@@ -18,7 +18,7 @@ The dynasty hub is the central location of all the modules that will be in the a
 
 > Team Swap Module
 
-This module will allow you to swap out the in-game generic FCS schools for any of the real FCS schools that were included in v19 and beyond of College Football Revamped.  It will automatically change all team info (school name, mascot name, equipment colors, etc.) to your selected team.  It will even show the real logo of the team you select.
+This module will allow you to swap out any team in the game for any of the real FCS schools that were included in v21 and beyond of College Football Revamped.  It will automatically change all team info (school name, mascot name, equipment colors, etc.) to your selected team.  It will even show the real logo of the team you select. It will not update stadium info as the plug-in the tool runs on does not allow for it at the moment.
 
 > Top 25 Poll Editor Module
 
@@ -26,7 +26,7 @@ This module will allow you to edit any of the three polls (AP, Coaches, CFP) how
 
 > College Football Playoff Module
 
-This module will allows you to replace the BCS system of determining a national champion that the base game uses with either a 4-team or 8-team playoff.  By default, the tool will pull in the top 4 (or 8) teams by CFP Poll ranking, but you can simply click on any team and swap them out if you want to use an auto-bid or different system to determine who makes it into the bracket.  Make sure to read each step in the tool as it tells you exactly what you need to do.
+This module will allows you to replace the BCS system of determining a national champion that the base game uses with either a 4-team, 8-team, or 12-team playoff.  By default, the tool will pull in the top 4 (or 8 or 12) teams by CFP Poll ranking, but you can simply click on any team and swap them out if you want to use an auto-bid or different system to determine who makes it into the bracket.  Make sure to read each step in the tool as it tells you exactly what you need to do.
 
 > NFL Draft Declaration Module
 
